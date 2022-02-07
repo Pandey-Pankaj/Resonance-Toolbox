@@ -2,12 +2,6 @@
 
 ## SRC Metric
 <table>
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:20%">
-<col style="width:10%">
-<col style="width:50%">
-
 <thead>
   <tr>
     <th>Paper Title</th>
@@ -58,11 +52,17 @@
     <ul>
       <li>Intact</li>
       <li>Measure Shuffled</li>
+      <li>Magnitude Envelope Fluctuations</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>beat onset times</li>
+      <li>measure boundary times</li>
       <li>Reversed</li>
       <li>Phase Scrambled</li>
     </ul>
   </td>
-  <td>&nbsp;</td>
 </tr>
 
 <tr>
@@ -261,7 +261,19 @@
   <td>Journal of Neuroscience Methods, 2018</td>
   <td>fMRI</td>
   <td>Entire musical piece of modern 8.5-minute tango<br>- Astor Piazzolla<br>Recorded in a concert in Lausanne, Switzerland</td>
-  <td>25 features <a href = 'https://pubmed.ncbi.nlm.nih.gov/22116038/'>[1]</a></td>
+  <td>
+    <ul>
+      <li>Fullness</li>
+      <li>Brightness</li>
+      <li>Timbral Complexity</li>
+      <li>Activity</li>
+      <li>Rhythmic Complexity</li>
+      <li>Event Synchronicity</li>
+      <li>Pulse Clarity</li>
+      <li>Key Clarity</li>
+      <li>Mode</li>
+    </ul>
+  </td>
 </tr>
 
 <tr>
