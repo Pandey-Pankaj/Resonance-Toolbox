@@ -16,9 +16,8 @@ We aim to create a framework for the measurement and analysis used to decode the
 
 | Internal Entrainment  | 
 | ------------- | 
-| Varying breathing speeds and their relationship with neural physiology| 
-| Rest and Meditating|
-| Thoughts amplify the certain frequencies|
+| Weakly Coupled Internal Systems| 
+| Strongly Coupled Internal Systems|
 
 
 
