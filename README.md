@@ -16,8 +16,8 @@ We aim to create a framework for the measurement and analysis used to decode the
 
 | Internal Entrainment  | 
 | ------------- | 
-| Weakly Coupled Internal Systems| 
-| Strongly Coupled Internal Systems|
+| Coupled Internal Systems| 
+| Decoupled Internal Systems|
 
 
 
