@@ -15,3 +15,4 @@
 3. [A novel index of functional connectivity: phase lag based on Wilcoxon signed rank test](https://link.springer.com/10.1007/s11571-020-09646-x)
 4. [https://link.springer.com/10.1007/s11571-020-09646-x](https://linkinghub.elsevier.com/retrieve/pii/S0167278900000877)
 5. [A critical assessment of connectivity measures for EEG data: A simulation study](https://linkinghub.elsevier.com/retrieve/pii/S1053811912009469)
+6. [Computational Methods for the Assessment of Empathic Synchrony](https://www.researchgate.net/profile/Peipei-Setoh/publication/342848229_Computational_Methods_for_the_Assessment_of_Empathic_Synchrony/links/60231546299bf1cc26b54b13/Computational-Methods-for-the-Assessment-of-Empathic-Synchrony.pdf)
