@@ -7,6 +7,9 @@
 3. [Near-Infrared Spectroscopy Applied to Complex Systems and Human Hyperscanning Networking](http://www.mdpi.com/2076-3417/7/9/922)
 4. [Team-work, Team-brain: Exploring synchrony and team interdependence in a nine-person drumming task via multiparticipant hyperscanning and inter-brain network topology with fNIRS](https://linkinghub.elsevier.com/retrieve/pii/S1053811921004249)
 5. [Joint recording of EEG and audio signals in hyperscanning and pseudo-hyperscanning experiments](https://linkinghub.elsevier.com/retrieve/pii/S2215016121001400)
+6. [Crowdsourcing neuroscience: Inter-brain coupling during face-to-face interactions outside the laboratory](https://linkinghub.elsevier.com/retrieve/pii/S1053811920309216)
+7. [Inter-brain synchrony in teams predicts collective performance](https://academic.oup.com/scan/article/16/1-2/43/5912973)
+8. [EEG hyperscanning study of inter-brain synchrony during cooperative and competitive interaction](http://ieeexplore.ieee.org/document/7844990/)
 
 #### Coupling
 
