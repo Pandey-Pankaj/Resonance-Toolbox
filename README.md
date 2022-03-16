@@ -14,12 +14,16 @@ We aim to create a framework for the measurement and analysis used to decode the
 | Inter-Subject Correlation |
 | Brain2Brain Synchrony|
 
+<img src="/images/external_entrainment.png">
+
+
 | Internal Entrainment  | 
 | ------------- | 
 | Coupled Internal Systems| 
 | Decoupled Internal Systems|
 
 
+<img src="/images/internal_entrainment.png">
 
 
 
