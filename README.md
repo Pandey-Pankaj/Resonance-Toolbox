@@ -2,7 +2,7 @@
 This repository maintains the complete list of resources to compute the resonance mechanism.
 
 
-### [Resonance as a Design Strategy for AI and Social Robots, Frontiers in Neurorobotics](https://www.frontiersin.org/article/10.3389/fnbot.2022.850489) 
+### [Resonance as a Design Strategy for AI and Social Robots, Frontiers in Neurorobotics, 2022](https://www.frontiersin.org/article/10.3389/fnbot.2022.850489) 
 
 ###  Lomas James Derek, Lin Albert, Dikker Suzanne, Forster Deborah, Lupetti Maria Luce, Huisman Gijs, Habekost Julika, Beardow Caiseal, Pandey Pankaj, Ahmad Nashra, Miyapuram Krishna, Mullen Tim, Cooper Patrick, van der Maden Willem, Cross Emily S.
 
