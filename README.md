@@ -4,7 +4,11 @@ This repository maintains the complete list of resources to compute the resonanc
 
 ### [Resonance as a Design Strategy for AI and Social Robots, Frontiers in Neurorobotics, 2022](https://www.frontiersin.org/article/10.3389/fnbot.2022.850489) 
 
-###  Lomas James Derek, Lin Albert, Dikker Suzanne, Forster Deborah, Lupetti Maria Luce, Huisman Gijs, Habekost Julika, Beardow Caiseal, Pandey Pankaj, Ahmad Nashra, Miyapuram Krishna, Mullen Tim, Cooper Patrick, van der Maden Willem, Cross Emily S.
+####  Lomas James Derek, Lin Albert, Dikker Suzanne, Forster Deborah, Lupetti Maria Luce, Huisman Gijs, Habekost Julika, Beardow Caiseal, Pandey Pankaj, Ahmad Nashra, Miyapuram Krishna, Mullen Tim, Cooper Patrick, van der Maden Willem, Cross Emily S.
+
+### [Predicting Neural Resonance in Naturalistic Scenarios: A Computational Framework to Establish Neural Marker to Observe Internal and External Entrainment, MindBrainBody Symposium, 2022](https://www.cbs.mpg.de/1922154/c14_pande)
+
+#### Pankaj Pandey, Derek Lomas and Krishna Prasad Miyapuram
 
 The below figure depicts two objects with oscillatory properties, such as persons. The link shows a relationship between the property of one object to another. The linkage between property would define the relationship, and depending on the relationship obtained, a type of resonance can be defined.
 
